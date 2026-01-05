@@ -22,5 +22,3 @@ A Python-based password checker that evaluates password strength using multiple 
 1. Clone the repository:
    ```bash
    git clone https://github.com/jcarruthers07-gif/password-checker.git
-   pip install colorama
-   python password_checker.py
